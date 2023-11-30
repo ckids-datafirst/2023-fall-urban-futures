@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Urban Futures Datacore
+        Urban Futures Datacore 
       image:
         filename: welcome.jpg
       text: |
