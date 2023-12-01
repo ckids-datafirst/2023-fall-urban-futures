@@ -12,9 +12,7 @@ sections:
       image:
         filename: urban.jpeg
       text: |
-         
-
-        **The Urban Futures Data Core**   
+        The Urban Futures Data Core*  
 
         Advisor: Prof. Alice Chen, USC Price School of Public Policy
 
