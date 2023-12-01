@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
+title: Urban Futures
 date: 2022-10-24
 type: landing
 
@@ -12,7 +12,7 @@ sections:
       image:
         filename: urban.jpeg
       text: |
-        The Urban Futures Data Core*  
+        The Urban Futures Data Core 
 
         Advisor: Prof. Alice Chen, USC Price School of Public Policy
 
