@@ -4,10 +4,10 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Data Assessment
-    url: data
+  - name: The Problem
+    url: problem
     weight: 20
-  - name: Problem and Requirements
+  - name: Our solution
     url: problem-statement
     weight: 30
   - name: Approach
