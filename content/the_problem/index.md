@@ -9,7 +9,7 @@ share: false
 
 ## Introduction
 
-This page serves as a Data Assessment Document for the project.  It should be no more than 2-3 pages long.  It can be drafted in the first two weeks of the project, and can serve as an interim project report.  It can be refined as the project progresses and the use of the data is better understood.  
+  
 
 ## Data Overview and Examples
 
