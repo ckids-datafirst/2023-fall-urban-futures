@@ -16,6 +16,4 @@ main:
   - name: Results
     url: results
     weight: 50
-  - name: People
-    url: people
-    weight: 60
+
