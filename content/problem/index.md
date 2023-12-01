@@ -1,6 +1,6 @@
 ---
 title: Problem
-summary: "Uninformed Decision-Making in Urban Landscapes: A Barrier to Sustainable Progess and Untapped Opportunities. 
+summary: "Uninformed Decision-Making in Urban Landscapes: A Barrier to Sustainable Progess and Untapped Opportunities."
 
 date: "2018-06-28T00:00:00Z"
 editable: true
