@@ -18,11 +18,10 @@ Each publication has a title, authors, year, and number of citations, as well as
 ## Extraction Methods
 
 Using Python with Google Colab notebooks, we generated a web-scraping script that obtained the necessary information. 
-Package BeautifulSoup provided a framework for obtaining data from each webpage.  
+The package BeautifulSoup provided a framework for obtaining data from each webpage.  
 
-"Information for faculty and their publications were stored in dictionaries as key:value pairs and connected by faculty name as the primary key."
+Information for faculty and their publications were stored in dictionaries as key:value pairs and connected by faculty name as the primary key.
 
 Extracting data from the text of publications proved to be a difficult task, one we did not complete during the scope of this semester. 
 
-Using spaCy, we were able to generate named entity recognitions and successfully fetch the dataset names using custom rules of finding organizations (example: JULIET clinical trial).  
-However, the variation among the format of publications yielded poor model training results.  
+Using spaCy, we were able to generate named entity recognitions and successfully fetch the dataset names using custom rules of finding organizations (example: JULIET clinical trial). However, the variation among the format of publications yielded poor model training results.  
