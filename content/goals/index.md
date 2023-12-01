@@ -5,7 +5,7 @@ editable: true
 share: false
 ---
 
-The goal is to create a <b>research networking tool<b> that allows researchers and decision-makers to access centralized research information.
+The goal is to create a <b>research networking tool</b> that allows researchers and decision-makers to access centralized research information.
 
 ## A Web Application
 
