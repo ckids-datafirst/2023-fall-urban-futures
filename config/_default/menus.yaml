@@ -7,11 +7,11 @@ main:
   - name: The Problem
     url: problem
     weight: 20
-  - name: Our solution
-    url: problem-statement
+  - name: Data and Methods
+    url: data
     weight: 30
-  - name: Approach
-    url: approach
+  - name: Goals
+    url: goals
     weight: 40
   - name: Results
     url: results

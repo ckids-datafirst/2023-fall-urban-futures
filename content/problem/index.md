@@ -1,33 +1,18 @@
 ---
-title: Data Assessment
-summary: Data Assessment Document that gives an overview of the data used for the project.
+title: Problem
+summary: "Uninformed Decision-Making in Urban Landscapes: A Barrier to Sustainable Progess and Untapped Opportunities. 
 
 date: "2018-06-28T00:00:00Z"
 editable: true
 share: false
 ---
 
-## Introduction
+## Project Motivation
 
-  
+In the dynamic landscape of urban planning, we face a significant challenge—the absence of a centralized data hub for research. The multifaceted nature of urban environments, with their economic, social, and environmental intricacies, demands a comprehensive approach. However, the current disarray in urban research impedes our ability to efficiently tackle these complexities. The scattered nature of data sources, combined with a lack of a cohesive framework, limits our capacity for informed decision-making in urban planning.
 
-## Data Overview and Examples
+Without a unified platform, we grapple with inefficient problem-solving. Disorganized urban research not only hinders the extraction of valuable insights but also obstructs the collaboration necessary for effective solutions. Urban challenges require a collective effort, yet collaboration remains uncommon due to the disparate nature of research endeavors. This fragmentation prevents us from fully understanding and addressing the nuanced needs of urban environments, hindering our potential to develop sustainable and impactful solutions.
 
-Give a brief description of the data provided for this project, what it represents, how it was collected, and why it may help address the problem you are tackling.  Discuss if you will be using all the data or only some subset of it for the project.  Consider possible additional data that may be publicly available in the open Web that might complement the data that you are given.
+As we delve into "The Problem," our mission is clear: establish a centralized knowledge hub that transcends these challenges, enabling us to make more informed decisions, foster collaboration, and unlock the full potential of urban planning.  
 
-## Data Accessibility
-
-Summarize how the data can be accessed. For example, data may be available for download in files, or accessible through an API, or can be queried from a database.  Mention any restrictions in accessing the data, for example if it is sensitive data that can only accessed with special permission.
-
-## Data Formats
-
-Describe briefly the formats of the data.  Common data formats include CSV, JSON, XML, shapefiles, or any other specific formats relevant to your website.
-
-## Data Challenges
-
-Summarize why analyzing this data will be challenging. This may include issues like data heterogeneity, data size, and any pre- or post-processing needs. Explain some ideas for how these challenges could be addressed.
-
-## Data Visualizations and Highlights
-
-Including a visualization is a simple way to show something interesting about the data.  Perhaps the visualizations could simply highlight the size, distribution, and other simple statistical characteristics of the data.
 
